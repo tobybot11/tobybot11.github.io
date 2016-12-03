@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>tobybot11.io </title>
-    <link>http://tobybot11.github.io/blog/post/index.xml</link>
+    <link>http://tobybot11.github.io/post/index.xml</link>
     <language>en-us</language>
     <author>Tobias Ford</author>
     <rights>(C) 2016</rights>
@@ -12,10 +12,10 @@
       
         <item>
           <title>firstpost</title>
-          <link>http://tobybot11.github.io/blog/post/firstpost/</link>
+          <link>http://tobybot11.github.io/post/firstpost/</link>
           <pubDate>Sat, 03 Dec 2016 08:05:14 EST</pubDate>
           <author>Tobias Ford</author>
-          <guid>http://tobybot11.github.io/blog/post/firstpost/</guid>
+          <guid>http://tobybot11.github.io/post/firstpost/</guid>
           <description>&lt;p&gt;Hey, let&amp;rsquo;s get this blog &lt;strong&gt;started&lt;/strong&gt;.
 Today i decided i would commit to blogging on my recent tech journey.&lt;/p&gt;
 </description>
