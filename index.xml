@@ -1,27 +1,78 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>tobybot11.io </title>
+    <title>tobybot11.io</title>
     <link>http://tobybot11.github.io/index.xml</link>
+    <description>Recent content on tobybot11.io</description>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <author>Tobias Ford</author>
-    <rights>(C) 2016</rights>
-    <updated>2016-12-03 08:05:14 -0500 EST</updated>
-
+    <lastBuildDate>Sat, 03 Dec 2016 08:05:14 -0500</lastBuildDate>
+    <atom:link href="http://tobybot11.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    <item>
+      <title>second post</title>
+      <link>http://tobybot11.github.io/post/secondpost/</link>
+      <pubDate>Sat, 03 Dec 2016 08:05:14 -0500</pubDate>
       
-        <item>
-          <title>firstpost</title>
-          <link>http://tobybot11.github.io/post/firstpost/</link>
-          <pubDate>Sat, 03 Dec 2016 08:05:14 EST</pubDate>
-          <author>Tobias Ford</author>
-          <guid>http://tobybot11.github.io/post/firstpost/</guid>
-          <description>&lt;p&gt;Hey, let&amp;rsquo;s get this blog &lt;strong&gt;started&lt;/strong&gt;.
+      <guid>http://tobybot11.github.io/post/secondpost/</guid>
+      <description>&lt;p&gt;This is my first hugo website.. it has many nice static website things going on.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>firstpost</title>
+      <link>http://tobybot11.github.io/post/firstpost/</link>
+      <pubDate>Fri, 02 Dec 2016 20:05:14 -0500</pubDate>
+      
+      <guid>http://tobybot11.github.io/post/firstpost/</guid>
+      <description>&lt;p&gt;Hey, let&amp;rsquo;s get this blog &lt;strong&gt;started&lt;/strong&gt;.
 Today i decided i would commit to blogging on my recent tech journey.&lt;/p&gt;
 </description>
-        </item>
-      
+    </item>
     
+    <item>
+      <title>About Me and Hugo</title>
+      <link>http://tobybot11.github.io/about/</link>
+      <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://tobybot11.github.io/about/</guid>
+      <description>
 
+&lt;h1 id=&#34;me&#34;&gt;Me&lt;/h1&gt;
+
+&lt;p&gt;I am constantly searching for something.&lt;/p&gt;
+
+&lt;h1 id=&#34;hugo&#34;&gt;Hugo&lt;/h1&gt;
+
+&lt;p&gt;Hugo is a static site engine written in Go.&lt;/p&gt;
+
+&lt;p&gt;It makes use of a variety of open source projects including:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/spf13/cobra&#34;&gt;Cobra&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/spf13/viper&#34;&gt;Viper&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/spf13/jWalterWeatherman&#34;&gt;J Walter Weatherman&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/spf13/cast&#34;&gt;Cast&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Learn more and contribute on &lt;a href=&#34;https://github.com/spf13&#34;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&#34;setup&#34;&gt;Setup&lt;/h3&gt;
+
+&lt;p&gt;Some fun facts about &lt;a href=&#34;http://gohugo.io/&#34;&gt;Hugo&lt;/a&gt;:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Built in &lt;a href=&#34;http://golang.org/&#34;&gt;Go&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Loosely inspired by &lt;a href=&#34;http://jekyllrb.com/&#34;&gt;Jekyll&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Primarily developed by &lt;a href=&#34;http://spf13.com/&#34;&gt;spf13&lt;/a&gt; on the train while commuting to and from Manhattan.&lt;/li&gt;
+&lt;li&gt;Coded in &lt;a href=&#34;http://vim.org&#34;&gt;Vim&lt;/a&gt; using &lt;a href=&#34;http://vim.spf13.com/&#34;&gt;spf13-vim&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Have questions or suggestions? Feel free to &lt;a href=&#34;https://github.com/spf13/hugo/issues/new&#34;&gt;open an issue on GitHub&lt;/a&gt; or &lt;a href=&#34;https://twitter.com/spf13&#34;&gt;ask me on Twitter&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Thanks for reading!&lt;/p&gt;
+</description>
+    </item>
+    
   </channel>
 </rss>
