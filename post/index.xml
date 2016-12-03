@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>tobybot11.io </title>
+    <link>http://tobybot11.github.io/blog/post/index.xml</link>
+    <language>en-us</language>
+    <author>Tobias Ford</author>
+    <rights>(C) 2016</rights>
+    <updated>2016-12-03 08:05:14 -0500 EST</updated>
+
+    
+      
+        <item>
+          <title>firstpost</title>
+          <link>http://tobybot11.github.io/blog/post/firstpost/</link>
+          <pubDate>Sat, 03 Dec 2016 08:05:14 EST</pubDate>
+          <author>Tobias Ford</author>
+          <guid>http://tobybot11.github.io/blog/post/firstpost/</guid>
+          <description>&lt;p&gt;Hey, let&amp;rsquo;s get this blog &lt;strong&gt;started&lt;/strong&gt;.
+Today i decided i would commit to blogging on my recent tech journey.&lt;/p&gt;
+</description>
+        </item>
+      
+    
+
+  </channel>
+</rss>
