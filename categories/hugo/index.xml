@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>tobybot11.io</title>
+    <title>Hugo on tobybot11.io</title>
     <link>http://tobybot11.github.io/categories/hugo/index.xml</link>
-    <description>Recent content on tobybot11.io</description>
+    <description>Recent content in Hugo on tobybot11.io</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <atom:link href="http://tobybot11.github.io/categories/hugo/index.xml" rel="self" type="application/rss+xml" />

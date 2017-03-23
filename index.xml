@@ -6,8 +6,24 @@
     <description>Recent content on tobybot11.io</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 03 Dec 2016 08:05:14 -0500</lastBuildDate>
+    <lastBuildDate>Thu, 23 Mar 2017 18:49:05 -0400</lastBuildDate>
     <atom:link href="http://tobybot11.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Getting Back to the CLI</title>
+      <link>http://tobybot11.github.io/post/getting_back_to_the_cli/</link>
+      <pubDate>Thu, 23 Mar 2017 18:49:05 -0400</pubDate>
+      
+      <guid>http://tobybot11.github.io/post/getting_back_to_the_cli/</guid>
+      <description>&lt;p&gt;Getting Back to the CLI&amp;hellip;&lt;/p&gt;
+
+&lt;p&gt;It&amp;rsquo;s been a long time since my job required direct interaction with the machine.
+Now that I&amp;rsquo;ve started back at ground zero .. I&amp;rsquo;m back to where I feel most comfortable.
+The green glow of the CLI.&lt;/p&gt;
+
+&lt;p&gt;My goal for the next year+ is to make github commits everyday. :-)&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>second post</title>
@@ -20,7 +36,7 @@
     </item>
     
     <item>
-      <title>firstpost</title>
+      <title>first post</title>
       <link>http://tobybot11.github.io/post/firstpost/</link>
       <pubDate>Fri, 02 Dec 2016 20:05:14 -0500</pubDate>
       
