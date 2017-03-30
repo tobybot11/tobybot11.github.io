@@ -1,13 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on tobybot11.io</title>
-    <link>http://tobybot11.github.io/post/index.xml</link>
-    <description>Recent content in Posts on tobybot11.io</description>
+    <title>Borg on tobybot11.io</title>
+    <link>http://tobybot11.github.io/categories/borg/index.xml</link>
+    <description>Recent content in Borg on tobybot11.io</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 30 Mar 2017 18:28:57 -0400</lastBuildDate>
-    <atom:link href="http://tobybot11.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://tobybot11.github.io/categories/borg/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>I am Locutus of Borg</title>
@@ -45,43 +44,6 @@ My experiences have been unpleasant .. here is a running list of the problems i&
 &lt;/ul&gt;
 
 &lt;p&gt;Granted, I&amp;rsquo;m a relative newbie .. that said, clearly there need some improvements.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Getting Back to the CLI</title>
-      <link>http://tobybot11.github.io/post/getting_back_to_the_cli/</link>
-      <pubDate>Thu, 23 Mar 2017 18:49:05 -0400</pubDate>
-      
-      <guid>http://tobybot11.github.io/post/getting_back_to_the_cli/</guid>
-      <description>&lt;p&gt;Getting Back to the CLI&amp;hellip;&lt;/p&gt;
-
-&lt;p&gt;It&amp;rsquo;s been a long time since my job required direct interaction with the machine.
-Now that I&amp;rsquo;ve started back at ground zero .. I&amp;rsquo;m back to where I feel most comfortable.
-The green glow of the CLI.&lt;/p&gt;
-
-&lt;p&gt;My goal for the next year+ is to make github commits everyday. :-)&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>second post</title>
-      <link>http://tobybot11.github.io/post/secondpost/</link>
-      <pubDate>Sat, 03 Dec 2016 08:05:14 -0500</pubDate>
-      
-      <guid>http://tobybot11.github.io/post/secondpost/</guid>
-      <description>&lt;p&gt;This is my first hugo website.. it has many nice static website things going on.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>first post</title>
-      <link>http://tobybot11.github.io/post/firstpost/</link>
-      <pubDate>Fri, 02 Dec 2016 20:05:14 -0500</pubDate>
-      
-      <guid>http://tobybot11.github.io/post/firstpost/</guid>
-      <description>&lt;p&gt;Hey, let&amp;rsquo;s get this blog &lt;strong&gt;started&lt;/strong&gt;.
-Today i decided i would commit to blogging on my recent tech journey.&lt;/p&gt;
 </description>
     </item>
     
