@@ -29,7 +29,8 @@ My experiences have been unpleasant .. here is a running list of the problems i&
 
 &lt;blockquote&gt;
 &lt;p&gt;&lt;a href=&#34;https://github.com/kubernetes/kubernetes/issues/31665&#34;&gt;https://github.com/kubernetes/kubernetes/issues/31665&lt;/a&gt;
- &lt;a href=&#34;https://github.com/kubernetes/dashboard/issues/692#issuecomment-260547456&#34;&gt;https://github.com/kubernetes/dashboard/issues/692#issuecomment-260547456&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&#34;https://github.com/kubernetes/dashboard/issues/692#issuecomment-260547456&#34;&gt;https://github.com/kubernetes/dashboard/issues/692#issuecomment-260547456&lt;/a&gt;
+&lt;a href=&#34;http://stackoverflow.com/questions/34306082/kubernetes-https-api-return-unauthorized&#34;&gt;http://stackoverflow.com/questions/34306082/kubernetes-https-api-return-unauthorized&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;ul&gt;
@@ -50,6 +51,14 @@ My experiences have been unpleasant .. here is a running list of the problems i&
 
 &lt;blockquote&gt;
 &lt;p&gt;&lt;a href=&#34;http://stackoverflow.com/questions/35453792/pods-stuck-at-terminated-status&#34;&gt;http://stackoverflow.com/questions/35453792/pods-stuck-at-terminated-status&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Hitting CPU limits on the DNS container in k8s and getting a hundred containers built that need to be cleaned up&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/kubernetes/kubernetes/issues/33222&#34;&gt;https://github.com/kubernetes/kubernetes/issues/33222&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;ul&gt;
