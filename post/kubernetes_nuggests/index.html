@@ -31,12 +31,12 @@
 
 <meta name="twitter:text:title" content="I am Locutus of Borg"/>
 <meta name="twitter:title" content="I am Locutus of Borg"/>
-<meta name="twitter:description" content="I am Locutus of Borg I&rsquo;ve been diving head first into the k8s ecosystem over the last month of March 2017. This is the 2 or 3rd time &ldquo;diving in&rdquo; over the last 3 years and this time is the same as the last times. My experiences have been unpleasant .. here is a running list of the problems i&rsquo;ve encountered.
+<meta name="twitter:description" content="I am Locutus of Borg I&rsquo;ve been diving head first into the k8s ecosystem over the last month (March 2017). This is the 2 or 3rd time &ldquo;diving in&rdquo; over the last 3 years and this time is the same as the last times. My experiences have been unpleasant .. here is a running list of the problems i&rsquo;ve encountered.
  Every time I want to view the dashboard I get &ldquo;unauthorized&rdquo; ."/>
 <meta name="twitter:site" content="@tobybot11"/>
 
         <meta property="og:title" content="I am Locutus of Borg" />
-<meta property="og:description" content="I am Locutus of Borg I&rsquo;ve been diving head first into the k8s ecosystem over the last month of March 2017. This is the 2 or 3rd time &ldquo;diving in&rdquo; over the last 3 years and this time is the same as the last times. My experiences have been unpleasant .. here is a running list of the problems i&rsquo;ve encountered.
+<meta property="og:description" content="I am Locutus of Borg I&rsquo;ve been diving head first into the k8s ecosystem over the last month (March 2017). This is the 2 or 3rd time &ldquo;diving in&rdquo; over the last 3 years and this time is the same as the last times. My experiences have been unpleasant .. here is a running list of the problems i&rsquo;ve encountered.
  Every time I want to view the dashboard I get &ldquo;unauthorized&rdquo; ." />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="http://tobybot11.github.io/post/kubernetes_nuggests/" />
@@ -58,12 +58,12 @@
 
         
 <meta itemprop="name" content="I am Locutus of Borg">
-<meta itemprop="description" content="I am Locutus of Borg I&rsquo;ve been diving head first into the k8s ecosystem over the last month of March 2017. This is the 2 or 3rd time &ldquo;diving in&rdquo; over the last 3 years and this time is the same as the last times. My experiences have been unpleasant .. here is a running list of the problems i&rsquo;ve encountered.
+<meta itemprop="description" content="I am Locutus of Borg I&rsquo;ve been diving head first into the k8s ecosystem over the last month (March 2017). This is the 2 or 3rd time &ldquo;diving in&rdquo; over the last 3 years and this time is the same as the last times. My experiences have been unpleasant .. here is a running list of the problems i&rsquo;ve encountered.
  Every time I want to view the dashboard I get &ldquo;unauthorized&rdquo; .">
 
 
 <meta itemprop="dateModified" content="2017-03-30T18:28:57-04:00" />
-<meta itemprop="wordCount" content="230">
+<meta itemprop="wordCount" content="248">
 
 
 
@@ -342,7 +342,7 @@
 
 <h1 id="i-am-locutus-of-borg">I am Locutus of Borg</h1>
 
-<p>I&rsquo;ve been diving head first into the k8s ecosystem over the last month of March 2017.
+<p>I&rsquo;ve been diving head first into the k8s ecosystem over the last month (March 2017).
 This is the 2 or 3rd time &ldquo;diving in&rdquo; over the last 3 years and this time is the same as the last times.
 My experiences have been unpleasant .. here is a running list of the problems i&rsquo;ve encountered.</p>
 
@@ -361,13 +361,39 @@ My experiences have been unpleasant .. here is a running list of the problems i&
 <li>GCE gets more focus than native and other clouds.. i think this is unfortunate</li>
 <li>The &ldquo;Documentation&rdquo; is all over the map.. old / new .. documention is either nonexistant or very confusing given the frequency of change</li>
 <li>PVC-&gt;PV doesn&rsquo;t seem to work with this &ldquo;missing alpha thing&rdquo; error</li>
+</ul>
+
+<blockquote>
+<p><a href="https://github.com/openshift/origin/issues/12676">https://github.com/openshift/origin/issues/12676</a></p>
+</blockquote>
+
+<ul>
+<li>Pods stuck in &lsquo;terminating&rsquo; status like this</li>
+</ul>
+
+<blockquote>
+<p><a href="http://stackoverflow.com/questions/35453792/pods-stuck-at-terminated-status">http://stackoverflow.com/questions/35453792/pods-stuck-at-terminated-status</a></p>
+</blockquote>
+
+<ul>
 <li>Adding credetionals for quay.io to .docker/config.json in minikube</li>
 <li>Helm tiller node fails in helm or is overwelmed .. what to do? i ended up getting rid of minikube entirely and starting over</li>
 <li>Container image &lsquo;pull&rsquo;s get stuck and minikube needed to be restarted .. happend on quay/stackanetes/mariadb image</li>
+</ul>
+
+<blockquote>
+<p><a href="https://github.com/docker/docker/issues/22598">https://github.com/docker/docker/issues/22598</a></p>
+</blockquote>
+
+<ul>
 <li>A helm install fails after helm delete.. needed a &ndash;purge.. not obvious</li>
 </ul>
 
-<p>Granted, I&rsquo;m a relative newbie .. that said, clearly there need some improvements.</p>
+<blockquote>
+<p><a href="https://github.com/kubernetes/helm/issues/1140">https://github.com/kubernetes/helm/issues/1140</a></p>
+</blockquote>
+
+<p>Granted, I&rsquo;m a relative newbie.  Thankfully there are plenty that have gone before me.. but clearly, there is work to do.</p>
 
     </div>
 

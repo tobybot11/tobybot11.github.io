@@ -18,7 +18,7 @@
 
 &lt;h1 id=&#34;i-am-locutus-of-borg&#34;&gt;I am Locutus of Borg&lt;/h1&gt;
 
-&lt;p&gt;I&amp;rsquo;ve been diving head first into the k8s ecosystem over the last month of March 2017.
+&lt;p&gt;I&amp;rsquo;ve been diving head first into the k8s ecosystem over the last month (March 2017).
 This is the 2 or 3rd time &amp;ldquo;diving in&amp;rdquo; over the last 3 years and this time is the same as the last times.
 My experiences have been unpleasant .. here is a running list of the problems i&amp;rsquo;ve encountered.&lt;/p&gt;
 
@@ -37,13 +37,39 @@ My experiences have been unpleasant .. here is a running list of the problems i&
 &lt;li&gt;GCE gets more focus than native and other clouds.. i think this is unfortunate&lt;/li&gt;
 &lt;li&gt;The &amp;ldquo;Documentation&amp;rdquo; is all over the map.. old / new .. documention is either nonexistant or very confusing given the frequency of change&lt;/li&gt;
 &lt;li&gt;PVC-&amp;gt;PV doesn&amp;rsquo;t seem to work with this &amp;ldquo;missing alpha thing&amp;rdquo; error&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/openshift/origin/issues/12676&#34;&gt;https://github.com/openshift/origin/issues/12676&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Pods stuck in &amp;lsquo;terminating&amp;rsquo; status like this&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;http://stackoverflow.com/questions/35453792/pods-stuck-at-terminated-status&#34;&gt;http://stackoverflow.com/questions/35453792/pods-stuck-at-terminated-status&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ul&gt;
 &lt;li&gt;Adding credetionals for quay.io to .docker/config.json in minikube&lt;/li&gt;
 &lt;li&gt;Helm tiller node fails in helm or is overwelmed .. what to do? i ended up getting rid of minikube entirely and starting over&lt;/li&gt;
 &lt;li&gt;Container image &amp;lsquo;pull&amp;rsquo;s get stuck and minikube needed to be restarted .. happend on quay/stackanetes/mariadb image&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/docker/docker/issues/22598&#34;&gt;https://github.com/docker/docker/issues/22598&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ul&gt;
 &lt;li&gt;A helm install fails after helm delete.. needed a &amp;ndash;purge.. not obvious&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;Granted, I&amp;rsquo;m a relative newbie .. that said, clearly there need some improvements.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/kubernetes/helm/issues/1140&#34;&gt;https://github.com/kubernetes/helm/issues/1140&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Granted, I&amp;rsquo;m a relative newbie.  Thankfully there are plenty that have gone before me.. but clearly, there is work to do.&lt;/p&gt;
 </description>
     </item>
     
