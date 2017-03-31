@@ -79,6 +79,10 @@ My experiences have been unpleasant .. here is a running list of the problems i&
 &lt;p&gt;&lt;a href=&#34;https://github.com/kubernetes/helm/issues/1140&#34;&gt;https://github.com/kubernetes/helm/issues/1140&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 
+&lt;ul&gt;
+&lt;li&gt;What&amp;rsquo;s with randomly changing the order of output when you ask for multiple resources at once?&lt;/li&gt;
+&lt;/ul&gt;
+
 &lt;p&gt;Granted, I&amp;rsquo;m a relative newbie.  Thankfully there are plenty that have gone before me.. but clearly, there is work to do.&lt;/p&gt;
 </description>
     </item>
@@ -94,20 +98,12 @@ My experiences have been unpleasant .. here is a running list of the problems i&
 &lt;h1 id=&#34;me-toby-tobybot11&#34;&gt;Me / Toby / tobybot11&lt;/h1&gt;
 
 &lt;p&gt;I am constantly searching for something.
-<<<<<<< HEAD
 Right now I&amp;rsquo;m searching for a way to create a SaaS entity all by my lonesome. 😄&lt;/p&gt;
-=======
-Right now I&amp;rsquo;m searching for a way to create a SaaS entity all by my lonesome. :-) :smile:&lt;/p&gt;
->>>>>>> 795fcf9754fd1ffe127ed22d247b215acb787ca9
 
 &lt;h1 id=&#34;hugo-the-go-tool-i-used-to-create-this-site&#34;&gt;Hugo / The go tool I used to create this site.&lt;/h1&gt;
 
 &lt;p&gt;Hugo is a static site engine written in Go.
-<<<<<<< HEAD
 Proof Point #1 that every thing, including Jeykll, needed to be rewritten in go. 😉&lt;/p&gt;
-=======
-Proof Point #1 that every thing, including Jeykll, needed to be rewritten in go. ;-) :wink:&lt;/p&gt;
->>>>>>> 795fcf9754fd1ffe127ed22d247b215acb787ca9
 
 &lt;p&gt;It makes use of a variety of open source projects including:&lt;/p&gt;
 

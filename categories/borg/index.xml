@@ -78,6 +78,10 @@ My experiences have been unpleasant .. here is a running list of the problems i&
 &lt;p&gt;&lt;a href=&#34;https://github.com/kubernetes/helm/issues/1140&#34;&gt;https://github.com/kubernetes/helm/issues/1140&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 
+&lt;ul&gt;
+&lt;li&gt;What&amp;rsquo;s with randomly changing the order of output when you ask for multiple resources at once?&lt;/li&gt;
+&lt;/ul&gt;
+
 &lt;p&gt;Granted, I&amp;rsquo;m a relative newbie.  Thankfully there are plenty that have gone before me.. but clearly, there is work to do.&lt;/p&gt;
 </description>
     </item>
